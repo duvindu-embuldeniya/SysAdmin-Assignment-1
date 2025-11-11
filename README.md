@@ -131,9 +131,9 @@ ifconfig tun0
 ```
 - You should see subnet 10.8.0.0/24 — VPN is running and ready for clients
 
----
-
 ![SL Image](https://drive.google.com/file/d/1IYnB5CgQCjrYig-pzHLWgOOHXEYpTm2o/view?usp=drive_link)
+
+---
 
 # SL OpenVPN Client Setup (SL EC2)
 
@@ -211,6 +211,6 @@ ip addr show tun0
 ping 10.8.0.1
 ```
 
----
+![SL Image](https://drive.google.com/file/d/1rPhCsiVhzmSZAT1xPMzTd096kazkd_6p/view?usp=drive_link)
 
-![SL Image](https://drive.google.com/file/d/1IYnB5CgQCjrYig-pzHLWgOOHXEYpTm2o/view?usp=drive_link)
+---
